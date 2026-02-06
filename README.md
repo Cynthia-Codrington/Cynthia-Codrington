@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/ccodrington/">Cynthia Codrington</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I’m an aspiring cybersecurity professional with a genuine interest in solving mysteries and piecing together complex puzzles. That curiosity is what drives me as I build my skills through hands-on projects in vulnerability management and threat detection. These experiences are helping me develop a practical understanding of how cybersecurity works in real environments. Feel free to explore my projects to see how I’m growing my expertise and contributing to stronger security practices!
 
 
 ## ⚠️ Vulnerability Management Projects
