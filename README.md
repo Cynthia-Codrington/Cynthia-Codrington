@@ -10,7 +10,7 @@ I’m an aspiring cybersecurity professional with a genuine interest in solving 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Cynthia-Codrington/threat-hunting-scenario-tor)**
 
 <hr/>
 
