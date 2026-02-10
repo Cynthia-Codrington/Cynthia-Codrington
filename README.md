@@ -6,7 +6,7 @@ I’m an aspiring cybersecurity professional with a genuine interest in solving 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Cynthia-Codrington/vulnerability-management-program))**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Cynthia-Codrington/vulnerability-remediations/tree/main)**
 
 ## 🚨 Threat Hunting and Security Operations
 
